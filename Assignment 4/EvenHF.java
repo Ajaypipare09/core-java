@@ -1,8 +1,8 @@
-public class  oddHF {
+public class  EvenHF {
 
    public static void main(String[] args){
 
-     for(int i = 101; i<=150; i+=2 ){
+     for(int i = 100; i<=150; i+=2 ){
 
      System.out.println(i);
     }
